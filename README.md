@@ -1,5 +1,8 @@
 # Global-Effects-of-Malnutrition-on-Child-Development-EXCEL_Project
 ##### An analytical probe into UNICEF data to ascertain the effect of malnutrition on child development globally
+
+<img width="257" alt="mal 2" src="https://github.com/user-attachments/assets/8110a507-5f3e-4a2b-8a32-9614bb606562">
+
 ## INTRODUCTION TO MALNUTRITION
  Malnutrition refers to deficiencies or excesses in nutrient intake, an imbalance of essential nutrients, or impaired nutrient utilization. It can manifest in various ways, affecting the body’s tissues and overall health
 ## OBJECTIVES
